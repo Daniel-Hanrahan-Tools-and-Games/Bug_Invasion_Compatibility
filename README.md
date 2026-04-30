@@ -4,6 +4,8 @@ Compatibility version of Bug_Invasion
 
 <p>Controls: z for green bullet, a for blue bullet, s for yellow bullet, x for red bullet and arrow keys for directions.</p>
 
+<p>Warning: There is a bug in this version of the game where some enemies do not die sometimes.</p>
+
 <h3>Prerequisites</h3>
 <ol>
   <li>type this in terminal: sudo apt update</li>
