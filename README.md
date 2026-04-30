@@ -22,6 +22,7 @@ Compatibility version of Bug_Invasion
 <ol>
   <li>Type this in your terminal: cd /"Path To Game Folder"/Bug_Invasion_Compatibility</li>
   <li>Type this in terminal: g++ Bug_Invasion_Compatibility.cpp -o Bug_Invasion_Compatibility -I./lua542Linux/include -L./lua542Linux -llua54 -lraylib -lX11 -lXrandr -lXi -lXcursor -lGL -lm -ldl -lpthread -Wl,-rpath=./lua542Linux</li>
+  <li>Executable is now in game directory</li>
 </ol>
 
 <h3>Mod Support Info</h3>
