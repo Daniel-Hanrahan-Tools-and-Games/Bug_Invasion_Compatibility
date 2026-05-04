@@ -16,7 +16,7 @@ Compatibility version of Bug_Invasion
   <li>type this in terminal: cmake -DBUILD_EXAMPLES=OFF ..</li>
   <li>type this in terminal: make</li>
   <li>type this in terminal: sudo make install</li>
-  <li>type this in terminal: export LUA_INC=/path/to/game directory/lua542Linux/include<</li>
+  <li>type this in terminal: export LUA_INC=/path/to/game directory/lua542Linux/include</li>
   <li>type this in terminal: type this in terminal: export LUA_LIB=/path/to/game directory/lua542Linux/lib</li>
 </ol>
 
